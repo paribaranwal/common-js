@@ -1,0 +1,27 @@
+{
+  "name": "common-js-utilities",
+  "version": "1.0.3",
+  "description": "Utilities Package to provide some of the useful commonly required javascript methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config ./config/jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paribaranwal/common-js-utilities.git"
+  },
+  "keywords": [
+    "common utility methods",
+    "common javascript utility methods"
+  ],
+  "author": "Paritosh Baranwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paribaranwal/common-js-utilities/issues"
+  },
+  "homepage": "https://github.com/paribaranwal/common-js-utilities#readme",
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "jest-sonar-reporter": "^2.0.0"
+  }
+}
